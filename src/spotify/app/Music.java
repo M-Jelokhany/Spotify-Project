@@ -48,6 +48,10 @@ public class Music {
         return this.title;
     }
 
+    public void setTitle(String title){
+        this.title = title;
+    }
+
     public User getSinger(){
         return this.singer;
     }

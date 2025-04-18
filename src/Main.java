@@ -76,7 +76,5 @@ public class Main {
         if(music4 == null){
             System.out.println("Music with title \"salam\" and singer \"ali\" is not found ");
         }
-
-
     }
 }
